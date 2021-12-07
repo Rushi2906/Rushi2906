@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rushi2906
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning c language coding.
+- 🌱 I’m currently learning c language coding,Web designing using HTML,CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Instagram : _rushi_2906 ;
                          Facebook : Rushi Manani ;
