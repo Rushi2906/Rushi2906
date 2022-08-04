@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rushi2906
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Object-oriented-programming using JAVA,Database Manangement System.
+- 🌱 I’m currently learning Data Structure,Javascript,ReactJS,Database Manangement System.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Instagram : _rushi_2906 ;
                          Facebook : Rushi Manani ;
