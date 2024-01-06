@@ -1,4 +1,4 @@
-![image title](https://rushter.com/counter.svg)
+![Visitor Count](https://profile-counter.glitch.me/Rushi2906/count.svg)
 
 
 - 👋 Hi, I’m @Rushi2906
